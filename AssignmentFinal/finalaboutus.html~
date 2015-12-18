@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, height=device-height"
+    name="viewport">
+    <title>HYPE LAX</title>
+    <link href="Contents/reset.css" rel="stylesheet">
+    <link href="Contents/main.css" rel="stylesheet">
+</head>
+<body background="hypeLaxBackground.jpg">
+    <header>
+        <nav id="nav">
+            <ul>
+                <li>
+                    <a href="final.html">Home</a>
+                </li>
+                <li>
+                    <a href="finalproducts.html">Products</a>
+                </li>
+                <li>
+                    <a href="finalservices.html">Services</a>
+                </li>
+                <li class="active">
+                    <a href="finalaboutus.html">About Us</a>
+                </li>
+                <li>
+                    <a href="finalcontactus.html">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+     <div class="entry">
+        <p><br>
+        
+        <span class="gray">H</span><span class="pink">Y</span><span class="gray">PE   L</span><span class="pink">A</span><span class="gray">X</span>
+        
+        
+        <br></p>
+    </div>
+    <div class="whatsNew">
+        <p></p>
+    </div>
+    <!-- banner -->
+   <div class="inline-block nll"><img src="nll.png" width="100%" height="9%"><br>
+    <br>
+    <img src="canada.jpg" alt="canada" width="100%" height="7%"><br>
+    <br>
+    <img src="rock.png" alt="rock" width="100%" height="7%"><br>
+    <br>
+    <img src="buffalo.jpg" alt="buffalo" width="100%" height="7%">
+    <br>
+    <img src="knighthawks.jpg" alt="knighthawks" width="100%" height="7%">
+    <img src="mam.jpg" alt="Colorado" width="100%" height="7%">
+    <img src="swarm.jpg"  alt="Swarm" width="100%" height="7%"><br>
+    <img src="calgary.jpg" alt="Calgary" width="100%" height="7%"><br>
+    <img src="newEngland.jpg" alt="New England" width="100%" height="7%"><br><br>
+    <img src="sask.jpg" alt="Saskatchewan" width="100%" height="7%"><br><br><br>
+    <img src="van.png" alt="Vancouver" width="100%" height="7%"><br>
+    </div>
+    <div class="picTogether inline-block">
+        <!-- MAIN CONTENT---------------------------------------------------------------->
+        <h1>OUR STORY...</h1>
+        <p class="eightteen"><br>
+        <br>
+        Our story begins back in 1985 in Kingston, Ontario. With the love and
+        passion for lacrosse, and recent College graduates two friends turned
+        their love and passion into a small local start up business. We set up
+        shop in a small 600sqft shop in downtown Kingston. After 5 years we
+        decided it was time to open up more stores to sell our products. We
+        expanded into the GTA area, opening up 10 stores by 2000, and 50 stores
+        by 2015.<br>
+        <br>
+        Here we are now, with a new and exciting website format, in which we
+        will be able grow our business beyond our borders in which we are
+        confined to with just the typical brick and motar stores.<br>
+        <br>
+        This is an exciting time for our company..<br></p>
+    </div>
+    <!-- SOCIAL MEDIA============================================================-->
+    <div class="inline-block media"><img alt="facebook" src="fb.png" width=
+    "75%"><br>
+    <br>
+    <br>
+    <img alt="instagram" src="instagram.jpg" width="60%"><br>
+    <br>
+    <br>
+    <img alt="twitter" src="twitter.png" width="80%"></div>
+    <p><br>
+    <br>
+    <br></p>
+    <footer class="footer">
+        &nbsp;&nbsp;&nbsp;&copy; HYPE LAX - DANIEL WILLIAMS - ZATRA@KMDREAM.COM
+    </footer>
+</body>
+</html>

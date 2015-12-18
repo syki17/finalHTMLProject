@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, height=device-height"
+    name="viewport">
+    <title>HYPE LAX</title>
+    <link href="Contents/reset.css" rel="stylesheet">
+    <link href="Contents/main.css" rel="stylesheet">
+</head>
+<body background="hypeLaxBackground.jpg">
+    <header>
+        <nav id="nav">
+            <ul>
+                <li>
+                    <a href="final.html">Home</a>
+                </li>
+                <li>
+                    <a href="finalproducts.html">Products</a>
+                </li>
+                <li class="active">
+                    <a href="finalservices.html">Services</a>
+                </li>
+                <li>
+                    <a href="finalaboutus.html">About Us</a>
+                </li>
+                <li>
+                    <a href="finalcontactus.html">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+     <div class="entry">
+        <p><br>
+        
+        <span class="gray">H</span><span class="pink">Y</span><span class="gray">PE   L</span><span class="pink">A</span><span class="gray">X</span>
+        
+        
+        <br></p>
+    </div>
+    <div class="whatsNew">
+        <p></p>
+    </div>
+    <!-- banner -->
+   <div class="inline-block nll"><img src="nll.png" width="100%" height="9%"><br>
+    <br>
+    <img src="canada.jpg" alt="canada" width="100%" height="7%"><br>
+    <br>
+    <img src="rock.png" alt="rock" width="100%" height="7%"><br>
+    <br>
+    <img src="buffalo.jpg" alt="buffalo" width="100%" height="7%">
+    <br>
+    <img src="knighthawks.jpg" alt="knighthawks" width="100%" height="7%">
+    <img src="mam.jpg" alt="Colorado" width="100%" height="7%">
+    <img src="swarm.jpg"  alt="Swarm" width="100%" height="7%"><br>
+    <img src="calgary.jpg" alt="Calgary" width="100%" height="7%"><br>
+    <img src="newEngland.jpg" alt="New England" width="100%" height="7%"><br><br>
+    <img src="sask.jpg" alt="Saskatchewan" width="100%" height="7%"><br><br><br>
+    <img src="van.png" alt="Vancouver" width="100%" height="7%"><br>
+    </div>
+    <div class="picTogether inline-block">
+        <!-- MAIN CONTENT---------------------------------------------------------------->
+        <div>
+            <h1><b>SERVICES</b></h1><br>
+            <br>
+            <br>
+            <p class="eightteen">Our services are offered to both exisiting a
+            new customers. Our existing customer will receieve an additional
+            15% off any services that are performed that warranty doesn't
+            cover.</p><br>
+            <br>
+            <p class="eightteen">Listed below are services we offer:</p><br>
+            <br>
+            <br>
+            <ul class="eightteen">
+                <li>Re-Stringing of stick &nbsp;&nbsp;<span class=
+                "red">$45.00</span></li>
+                <li style="list-style: none"><br></li>
+                <li>Transfering head onto new stick&nbsp;&nbsp;<span class=
+                "red">$20.00</span></li>
+                <li style="list-style: none"><br></li>
+                <li>Taping of stick &nbsp;&nbsp;<span class=
+                "red">$10.00</span></li>
+                <li style="list-style: none"><br></li>
+                <li>Re-sizing pocket depth&nbsp;&nbsp;<span class=
+                "red">$15.00</span></li>
+                <li style="list-style: none"><br></li>
+                <li>Adding customization to stick&nbsp;&nbsp;<span class=
+                "red">$</span> Contact Us</li>
+            </ul>
+        </div>
+    </div>
+    <!-- SOCIAL MEDIA============================================================-->
+    <div class="inline-block media"><img alt="facebook" src="fb.png" width=
+    "75%"><br>
+    <br>
+    <br>
+    <img alt="instagram" src="instagram.jpg" width="60%"><br>
+    <br>
+    <br>
+    <img alt="twitter" src="twitter.png" width="80%"></div>
+    <p><br>
+    <br>
+    <br></p>
+    <footer class="footer">
+        &nbsp;&nbsp;&nbsp;&copy; HYPE LAX - JAKUB SYKORA - SYKI@KMDREAM.COM
+    </footer>
+</body>
+</html>

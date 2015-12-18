@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1, height=device-height"
+    name="viewport">
+    <title>HYPE LAX</title>
+    <link href="Contents/reset.css" rel="stylesheet">
+    <link href="Contents/main.css" rel="stylesheet">
+</head>
+<body background="hypeLaxBackground.jpg">
+   
+    <header>
+        <nav id="nav">
+            <ul>
+                <li class="active"><a href="final.html">Home</a>  
+                </li>
+                <li><a href="finalproducts.html">Products</a>
+                </li>
+                <li><a href="finalservices.html">Services</a>
+                </li>
+                <li><a href="finalaboutus.html">About Us</a>
+                </li>
+                <li><a href="finalcontactus.html">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div class="entry">
+        <p><br>
+        
+        <span class="gray">H</span><span class="pink">Y</span><span class="gray">PE   L</span><span class="pink">A</span><span class="gray">X</span>
+        
+        
+        <br></p>
+    </div>
+    <div class="whatsNew">
+        <p></p>
+        
+        <!-- banner -->
+    </div>
+   <div class="inline-block nll"><img src="nll.png" width="100%" height="9%"><br>
+    <br>
+    <img src="canada.jpg" alt="canada" width="100%" height="7%"><br>
+    <br>
+    <img src="rock.png" alt="rock" width="100%" height="7%"><br>
+    <br>
+    <img src="buffalo.jpg" alt="buffalo" width="100%" height="7%">
+    <br>
+    <img src="knighthawks.jpg" alt="knighthawks" width="100%" height="7%">
+    <img src="mam.jpg" alt="Colorado" width="100%" height="7%">
+    <img src="swarm.jpg"  alt="Swarm" width="100%" height="7%"><br>
+    <img src="calgary.jpg" alt="Calgary" width="100%" height="7%"><br>
+    <img src="newEngland.jpg" alt="New England" width="100%" height="7%"><br><br>
+    <img src="sask.jpg" alt="Saskatchewan" width="100%" height="7%"><br><br><br>
+    <img src="van.png" alt="Vancouver" width="100%" height="7%"><br>
+    </div>
+    
+    <!-- MAIN CONTENT---------------------------------------------------------------->
+    
+    <div class="picTogether inline-block"> 
+        <div class="pic inline-block"><img src="stick1.jpg" alt="Lacrosse Stick" width="100%" height="350px"></div>
+        <div class="picText inline-block">  
+            <ul><br>
+                <br>
+                <br>
+                <h3><strong>KNIGHT YELLOW</strong></h3>
+                <h4><strong>$130.00</strong></h4><br><br>
+                <h5>Specifications:</h5><br>
+                <p><b>Head:&nbsp;&nbsp;;</b>Pioneer</p>
+                <p><b>Mesh Type:&nbsp;&nbsp;</b>Yellow Hero Mesh</p>
+                <p><b>String Type:&nbsp;&nbsp;</b>String King</p>
+                <p><b>Top String:&nbsp;&nbsp;</b>SK Hot Pink</p>
+                <p><b>Throat:&nbsp;&nbsp;</b>Blue</p>
+                <p><b>Shooting Strings:&nbsp;&nbsp</b>Yellow</p>
+                <p><b>Strung By:&nbsp;&nbsp;</b>Kam Manchester</p>
+            </ul>    
+        </div>
+        
+        <div class="picText inline-block">
+            <ul>
+               <br>
+               <br>
+               <br>
+                <h3><strong>KNIGHT PINK</strong></h3>
+                <h4><strong>$110.00</strong></h4><br><br>
+                <h5>Specifications:</h5><br>
+                <p><b>Head:&nbsp;&nbsp;;</b>Pioneer</p>
+                <p><b>Mesh Type:&nbsp;&nbsp;</b>Grey Hero Mesh</p>
+                <p><b>String Type:&nbsp;&nbsp;</b>String King</p>
+                <p><b>Top String:&nbsp;&nbsp;</b>SK Hot Pink</p>
+                <p><b>Throat:&nbsp;&nbsp;</b>Grey</p>
+                <p><b>Shooting Strings:&nbsp;&nbsp</b>Grey</p>
+                <p><b>Strung By:&nbsp;&nbsp;</b>Oli Strays</p>
+            </ul>
+        </div>
+          
+        
+        <div class="pic inline-block"><img src="pic2.jpg" alt="Lacrosse Stick" width="100%" height="350px"></div>
+    
+        <div class="pic inline-block"><img src="a.png" alt="Lacrosse Stick" width="100%" height="350px"></div>
+        <div class="picText inline-block">
+            <ul>
+               <br>
+               <br>
+               <br>
+                <h3><strong>FLOW X HOT PINK</strong></h3>
+                <h4><strong>$90.00</strong></h4><br><br>
+                <h5>Specifications:     </h5><br>
+                <p><b>Head:              </b>HYPE 1</p>
+                <p><b>String Type:       </b>HYPE leather</p>
+                <p><b>Top String:        </b>SK Hot Pink / White</p>
+                <p><b>Throat:     </b>White</p>
+                <p><b>Shooting Strings:  </b>Grey</p>
+                <p><b>Strung By:          </b>Bob Watson</p>
+            </ul>
+        </div>
+        
+        
+        <div class="picText inline-block">
+            <ul>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+               <h3><strong>HYPE CURRENT</strong></h3>
+                <h4><strong>$120.00</strong></h4><br><br>
+                <h5>Specifications:     </h5><br>
+                <p><b>Head:              </b>Pioneer</p>
+                <p><b>Mesh Type:         </b>Blue Hero Mesh</p>
+                <p><b>String Type:       </b>String King - Yellow</p>
+                <p><b>Top String:        </b>SK Blue</p>
+                <p><b>Throat:            </b>Grey</p>
+                <p><b>Shooting Strings:  </b>Blue</p>
+                <p><b>Strung By          </b>Oli Strays</p>
+            </ul>
+        </div>
+          
+        
+        <div class="pic inline-block"><img src="blueHead.jpg" alt="Lacrosse Stick" width="100%" height="350px"></div>
+    </div>
+    
+    
+    
+    <!-- SOCIAL MEDIA-------------------------------------------------------------->
+    
+   <div class="inline-block media">
+    <img src="fb.png" alt="facebook" width="75%"><br>
+    <br>
+    <br>
+    <img src="instagram.jpg" alt="instagram" width="60%"><br>
+    <br>
+    <br>
+    <img src="twitter.png" alt="twitter" width="80%"></div>
+    
+    
+    <P><br><br><br></P>
+    <footer class="footer">&nbsp;&nbsp;&nbsp;&copy; HYPE LAX - JAKUB SYKORA - SYKI@KMDREAM.COM</footer>
+</body>
+</html>

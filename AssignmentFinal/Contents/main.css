@@ -1,0 +1,205 @@
+body {
+    font-family:sans-serif;
+    font-size:12px;
+    overflow:auto;
+    min-width: 1188px;
+    background-repeat: no-repeat;
+}
+
+#nav {
+    height:48px;     
+    text-align: center;
+    margin-top:25px;
+    width:36%;
+    margin-left:32%;
+    margin-right:32%;   
+    border-bottom: solid pink;
+}
+
+#nav ul li {
+    display: inline-block;
+    margin-top:14px;
+    margin-bottom:14px;
+    
+}
+
+#nav ul li a {
+    color:black;
+    text-decoration: none;
+    font-size:17px;
+    padding:4PX;
+    text-align: center;
+}
+
+#nav ul li a:hover {
+    color:hotpink;
+}
+
+.footer {
+    position:relative;
+    bottom:0;
+    left:0;
+    right:0;
+    height:30px;
+}
+
+.navPushL {
+    margin-left:100px;
+}
+
+.navPushR {
+    margin-right:100px;
+}
+
+.active {
+    color:hotpink;
+}
+
+.entry
+{
+    color:mediumvioletred; 
+    min-width:480px;
+    font-size:42px;
+    text-align: center;
+    margin-top:0px;
+    margin-left:25%;
+    margin-right:25%;   
+}
+
+.pic {  
+    width:49%;
+    height:350px;
+    margin-top:45px;
+     
+}
+
+.pic:hover {
+    opacity: .7;
+}
+
+.picText {
+    border-bottom:solid grey 1px;
+    width:43%;
+    vertical-align: top;
+    font-size:16px;   
+    height:350px; 
+    text-align: left;
+    color:dimgray;
+    padding-left:4%;
+    margin-left:2%;
+    margin-top:45px;
+}
+
+
+.mTop {
+    margin-top:40px;
+}
+.picTogether
+{
+    width:40%;
+    margin-top:35px; 
+    margin-left: 3%;
+    background-color: white;
+}
+
+
+.picTogether2
+{
+    width:40%;
+    margin-top:35px; 
+    height:2850px;
+    margin-left: 3%;
+    background-color: white;
+}
+
+.inline-block {
+    display:inline-block;
+}
+
+.eightteen {
+    font-size:16px;
+}
+
+h1 {
+    font-size:24px;
+}
+
+h3 {
+    font-size:22px;
+    color:black;
+}
+
+h4 {
+    color:red;
+    font-style:italic;
+}
+
+
+.media {
+    color:black; 
+    vertical-align: top;
+    margin-top:35px;
+    margin-right:18%;
+    margin-left:2%;
+    height:415px;
+    width:9%;
+    text-align: center;
+    background-color:white;
+    
+}
+
+.nll {
+    height:1450px;
+    vertical-align: top;
+    margin-top:35px;
+    margin-left:18%;
+    margin-right: 2%;
+    width:6%;    
+}
+
+img {
+    background-color;
+}
+img:hover
+{  
+    opacity: .6;
+}
+
+.background {
+    background-color:white;
+}
+
+
+.white {
+    color:white;
+}
+
+.gray {
+    color:dimgray;
+}
+
+.pink {
+    color:hotpink;
+}
+
+.red {
+    color:red;
+}
+
+.paddingL {
+    padding-left:30px;
+}
+
+.paddingR {
+    padding-right:30px;
+}
+
+.paddingT {
+    padding-top:30px;
+}
+
+.paddingB {
+    padding-bottom:30px;
+}
+
+
